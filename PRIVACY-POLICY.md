@@ -1,6 +1,6 @@
 # Privacy Policy
 
-[COMPANY-NAME] built the all app as a Free app. This SERVICE is provided by [COMPANY-NAME] at no cost and is intended for use as is.
+Egg Corz built the all app as a Free app. This SERVICE is provided by Egg Corz at no cost and is intended for use as is.
 
 ## Information Collection and Use
 
